@@ -1,4 +1,3 @@
-
 ---
 title: Pool Group Update - October 2024 Week 3
 Description: HELP & PRAY pool group, is this a sign?  MAV down to 28 from 30 due to existing MPO expansion
