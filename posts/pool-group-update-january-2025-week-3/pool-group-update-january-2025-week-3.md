@@ -1,12 +1,12 @@
 ---
-title: Pool Group Update - October 2024 Week 3
-Description: HELP & PRAY pool group, is this a sign?  MAV down to 28 from 30 due to existing MPO expansion
-slug: pool-group-update-october-2024-week-3
+title: Pool Group Update - January 2025 Week 3
+Description: Pool splitting picking up!  MAV reset to 25 due to undisclosed genesis MPO.
+slug: pool-group-update-january-2025-week-3
 category: group_update
 series: true
 ---
 
-# Pool Group Update - October 2024 Week 3
+# Pool Group Update - January 2025 Week 3
 
 ## Table of Contents
 
@@ -14,9 +14,9 @@ series: true
 
 ## Pool Group Updates
 
-**(July 2024 -> October 2024)**
+**(October 2024 week 3 -> January 2025 week 3)**
 
-**New HELP & PRAY pool group, is this a sign?  MAV down to 28 from 30 due to existing MPO expansion,  SPaaS providers Spire and Kiln staying busy, new CEX joining the MPO scene**
+**Welcome to our 4 new MPOs. Your pool splitting is much appreciated...NOT!  Pool group update results in MAV reset to 25!!**
 
 Welcome to the BALANCE Pool Group Update, Here’s an outline of what has changed since last time.
 
@@ -26,7 +26,8 @@ Want to participate?   Feel free to join [Group Edits](https://matrix.to/#/#Pool
 
 ### New Group Updates
 
-- New stake pools created since last update: 29
+- New stake pools created since last update: 40
+- 5BINARIES adds 2 pools which appear to be part of a SPaaS operation maintained by HT to https://x.com/KpunToN00b for investigative work
 - HELP group created consisting of 2 pools ([HELP](https://pool.pm/e3ad58f8059878525e12a0e206cec0d0ebe730891482fc51458ab304) & [PRAY](https://pool.pm/ffdcba293f969ec7354b6445500893e142a9c990d96984e9f11677fe))
     - Pools share identical web site configuration and were created back-to-back based on DBSYNC pool ID value assignment
     - Is this a sign of some kind?  Not sure, but perhaps a little prayer for all us crypto folks might help out as we approach 2025
