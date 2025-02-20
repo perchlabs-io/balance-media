@@ -16,7 +16,7 @@ series: true
 
 **(October 2024 week 3 -> January 2025 week 3)**
 
-**Welcome to our 4 new MPOs. Your pool splitting is much appreciated...NOT!  Pool group update results in MAV reset to 25!!**
+**Lets welcome our 4 new MPOs. Your pool splitting is much appreciated...NOT!  MAV reset to 25...what happened?**
 
 Welcome to the BALANCE Pool Group Update, Here’s an outline of what has changed since last time.
 
@@ -27,7 +27,12 @@ Want to participate?   Feel free to join [Group Edits](https://matrix.to/#/#Pool
 ### New Group Updates
 
 - New stake pools created since last update: 40
-- 5BINARIES adds 2 pools which appear to be part of a SPaaS operation maintained by HT to https://x.com/KpunToN00b for investigative work
+- 5BINARIES adds 2 pools.  Appears to be part of SPaaS operation maintained NUTS pool operator.
+    - HT to ([Homer](https://x.com/KpunToN00b)) for the fine investigative work.
+- Block Daemon (BD) and Ledger By Figment (FIGMENT) MPOs increase pool count
+- SASA, HODLR, FLAIR, and DAPP join the MPO ranks
+- NEW GIRL increase pool count by 3 and reintrduced as CHUCK BUX!!
+
 - HELP group created consisting of 2 pools ([HELP](https://pool.pm/e3ad58f8059878525e12a0e206cec0d0ebe730891482fc51458ab304) & [PRAY](https://pool.pm/ffdcba293f969ec7354b6445500893e142a9c990d96984e9f11677fe))
     - Pools share identical web site configuration and were created back-to-back based on DBSYNC pool ID value assignment
     - Is this a sign of some kind?  Not sure, but perhaps a little prayer for all us crypto folks might help out as we approach 2025
